@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rosnerdev
+- 👀 I’m interested in starting my own company, make my own video game and making my own Operating system. 
+- 🌱 I’m currently learning C and Python. 
+- 💞️ I’m looking for collaboration in developing my discord bot. 
+- 📫 Reach me at: yrosner123@gmail.com 
